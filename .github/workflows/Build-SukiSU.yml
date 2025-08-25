@@ -21,6 +21,7 @@ on:
         required: true
         default: oneplus_ace2pro_v
         options:
+          - oneplus_pad2_pro
           - oneplus_nord_ce4_v
           - oneplus_ace_3v_v
           - oneplus_nord_4_v
